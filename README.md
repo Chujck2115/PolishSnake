@@ -1,3 +1,5 @@
+### Informacja dla profesora chciałbym najmocniej przeprosić za wydłużony czas oczekiwania i zmianę założeń projektu,ale sytuacja w której się znalazłem uniemożliwiła mi to wszystko i nie podołałem. Starałem z całych sił dziękuję ślicznie!
+
 Cześć! Chciałem podzielić się moją wersją klasycznej gry Snake, nad którą pracuję. To nie jest zwykła wersja węża – dodałem kilka unikalnych funkcji, które sprawiają, że gra jest bardziej dynamiczna i daje więcej frajdy.
 
 Co wyróżnia moją wersję?
